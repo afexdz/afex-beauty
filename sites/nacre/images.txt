@@ -1,0 +1,9 @@
+assets/img/hero/brushing.webp 1580618672591-eb180b1a973f 1600 0 70
+assets/img/hero/couleur.webp 1734111719430-fe4a3973f8af 1600 0 70
+assets/img/hero/ongles.webp 1604654894610-df63bc536371 1600 0 70
+assets/img/carte/rose.webp 1519014816548-bf5fe059798b 1400 0 70
+assets/img/carte/mariee.webp 1774660810725-fb04e002003d 1400 0 70
+assets/img/salon/interieur.webp 1781450090585-1a511b7066d9 1600 0 70
+assets/img/salon/vernis.webp 1619607146034-5a05296c8f9a 1600 0 70
+assets/img/salon/art.webp 1754799670312-8e7da8e40ad7 1600 0 70
+assets/img/salon/coeurs.webp 1754799670410-b282791342c3 1600 0 70
