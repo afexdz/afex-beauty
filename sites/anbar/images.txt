@@ -1,0 +1,7 @@
+assets/img/p/vapeur.webp 1643685276743-1b52832c58d5 1500 0 70
+assets/img/p/bain.webp 1643684460412-76908d8e5a25 1500 0 70
+assets/img/p/massage.webp 1639162906614-0603b0ae95fd 1500 0 70
+assets/img/p/serviette.webp 1757689373248-a6cd07328ba5 1500 0 70
+assets/img/p/citron.webp 1713824096348-c1956e6da321 1500 0 70
+assets/img/p/pinceau.webp 1761718209835-c8586b7dcac0 1500 0 70
+assets/img/p/masque.webp 1570172619644-dfd03ed5d881 1500 0 70
